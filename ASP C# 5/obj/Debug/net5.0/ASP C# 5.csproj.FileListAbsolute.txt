@@ -1,0 +1,61 @@
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\appsettings.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\ASP C# 5.exe
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\ASP C# 5.deps.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\ASP C# 5.runtimeconfig.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\ASP C# 5.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\ASP C# 5.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\ASP C# 5.pdb
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.AssemblyInfo.cs
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\scopedcss\bundle\ASP C# 5.styles.css
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\staticwebassets\ASP C# 5.StaticWebAssets.Manifest.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.RazorTargetAssemblyInfo.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.csproj.CopyComplete
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\refint\ASP C# 5.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.pdb
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.genruntimeconfig.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ref\ASP C# 5.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\ASP C# 5.Views.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\bin\Debug\net5.0\ASP C# 5.Views.pdb
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.RazorAssemblyInfo.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.RazorAssemblyInfo.cs
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.TagHelpers.input.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.TagHelpers.output.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.RazorCoreGenerate.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\Razor\View\index.cshtml.g.cs
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.RazorTargetAssemblyInfo.cs
+C:\Users\Pc\Desktop\MyProyects\ASP C# 5\obj\Debug\net5.0\ASP C# 5.Views.pdb

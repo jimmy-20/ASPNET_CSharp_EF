@@ -1,0 +1,53 @@
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\appsettings.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\ASP C# 6.exe
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\ASP C# 6.deps.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\ASP C# 6.runtimeconfig.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\ASP C# 6.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\ASP C# 6.pdb
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.AssemblyInfo.cs
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\scopedcss\bundle\ASP C# 6.styles.css
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.csproj.CopyComplete
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\refint\ASP C# 6.dll
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.pdb
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ASP C# 6.genruntimeconfig.cache
+C:\Users\Pc\Desktop\MyProyects\ASP C# 6\obj\Debug\net6.0\ref\ASP C# 6.dll

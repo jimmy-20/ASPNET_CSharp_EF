@@ -1,0 +1,28 @@
+@Model List<Cliente>
+
+@{
+    
+}
+
+<h1>Bienvenido a ServiPlus </h1>
+<h2>Listado de clientes</h2>
+
+<table class="table table-dark table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Primer nombre</th>
+            <th scope="col">Primer apellido</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+        <tr>
+            <td>@obj.Id</td>
+            <td>@obj.PrimerNombre</td>
+            <td>@obj.PrimerApellido</td>
+        </tr>
+        }
+    </tbody>
+</table>
